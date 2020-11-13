@@ -1,0 +1,13 @@
+{
+  "name": "vue3-docs",
+  "version": "1.0.0",
+  "description": "some introduction for vue3 feature",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "keywords": [],
+  "author": "tanjingchuan <tanjingchuan@meicai.cn>",
+  "license": "ISC"
+}
