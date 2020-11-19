@@ -1,6 +1,5 @@
 module.exports = {
   base: '/vue3-docs/',
-  dest: 'public',
   title: 'Vue3源码系列',
   description: '针对vue3的新特性做一些源码分析和实例应用',
   head: [
